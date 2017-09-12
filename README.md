@@ -51,7 +51,7 @@ var params = {
 	content_type: 'url', //optional, default = url
 	printer_id: "123123123123-sdfjjv=123",
 	tags: ['tag1', 'tag2'],//optional, default = [],
-	setting: {
+	settings: {
 		reverse_order: {
 			reverse_order: false
 		},
